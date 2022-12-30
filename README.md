@@ -34,4 +34,14 @@ https://www.python.org/downloads/release/python-272/
 **While I am a N00b H4ck3r** *, I do enjoy making new friends! I am on;*  
 ***Twitter:*** ~ https://twitter.com/CryptoH4ck3r  
 ***StackOverflow:*** ~ https://stackoverflow.com/users/20818877/crypto-h4ck3r  
-***Email:*** ~ cryptoh4ck3r@proton.me 
+***Email:*** ~ cryptoh4ck3r@proton.me  
+  
+If you enjoyed the contents of this repo, please help support the creator. They are almost out of coffee!  
+BitCoin Wallet (Recieving):  
+3QVThxXUbV4uaKBBJP1bHahZH2iJhpmncT  
+  
+Etherum Wallet (Recieving):  
+0x07a0d46097C63Ee7E66229821fc0115Bb0E2F424  
+  
+Doge Wallet (Recieving):  
+DRjYNp9JGbkFSVL5tXQqbU6y8Wy99bJA8m  
